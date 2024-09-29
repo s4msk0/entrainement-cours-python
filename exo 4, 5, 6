@@ -1,0 +1,22 @@
+#Exo cours 
+
+#Exercice4
+
+'''def fonction(c,n):
+    return c*n
+print(fonction('c',8))'''
+
+#Exercice 5
+
+'''def fonction(c,d,n,m):
+    return c*n + d*m
+print(fonction('c','d',8,8))'''
+
+#Exercice 6
+1.
+def fonction(ch,n):
+    if n=0:
+    for i in range(n):
+        print(ch)
+    else:
+        print("n doit être suprérieur")
