@@ -1,5 +1,5 @@
 def verif_mdp():
-    mdp_correct = "1234"
+    mdp_correct = "1234" #Exemple de mot de passe
     tentative = 0
     max_tentative = 5
 
